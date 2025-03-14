@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anush Bhandary! 🚀
+# 👋 Hi there, I'm Anush Sadashiva Bhandary! 🚀
 
 ### 🎓 Student | 💻 Python Developer | 🔥 Tech Enthusiast
 
