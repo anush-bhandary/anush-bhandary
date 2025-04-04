@@ -1,27 +1,34 @@
 # 👋 Hi there, I'm Anush Sadashiva Bhandary! 🚀
 
-### 🎓 Student | 💻 Python Developer | 🔥 Tech Enthusiast
+### 🎓 Final Year CSE Student | 🐍 Python Developer | 📊 Data Analyst | 🤖 ML Enthusiast
 
-I'm a final-year Computer Science student at **Sahyadri College of Engineering**, passionate about coding, technology, and building innovative applications using **Python**. I love exploring new technologies and solving real-world problems through programming.
+I'm a final-year Computer Science student at Sahyadri College of Engineering, deeply passionate about data, technology, and solving real-world problems using Python, Data Analytics, and Machine Learning. I love turning raw data into actionable insights and building intelligent applications that create impact.
+
+Whether it’s analyzing trends, building ML models, or automating tasks, I enjoy every part of the data-driven journey!
 
 ## 🚀 About Me
-- 🐍 **Python Developer** – I create applications using Python, exploring frameworks like Flask, Django, and FastAPI.
-- 🔍 **AI & Machine Learning Enthusiast** – Passionate about working with data and deep learning algorithms.
-- 📚 **Lifelong Learner** – Always eager to learn new technologies and improve my coding skills.
-- 🎯 **Problem Solver** – I enjoy tackling coding challenges and working on real-world projects.
-- 💡 **Tech Explorer** – Enthusiastic about open-source projects, automation, and emerging tech trends.
+- 🐍 **Python Developer** –I build data-driven applications and automation scripts using Python, leveraging libraries like Pandas, NumPy, and Scikit-learn.
+- 📊 **Data Analyst** – Skilled in extracting insights from data using tools like Excel, SQL, and Power BI to support data-driven decision making.
+- 🤖 **Machine Learning Enthusiast** – Passionate about predictive modeling, deep learning, and applying ML techniques to solve real-world problems.
+- 🧠 **Curious Mind** – Always eager to explore new ideas, learn from patterns in data, and uncover insights that lead to smarter solutions.
+- 💡 **Tech Explorer** – Driven by curiosity, I love experimenting with emerging technologies, open-source tools, and innovative solutions.
 
 ## 📌 Skills
-- **Languages**: Python, JavaScript, C++
-- **Web Development**: HTML, CSS, JavaScript
-- **Frameworks**: Django, Flask, React
-- **Data Science & ML**: Pandas, NumPy, TensorFlow, Scikit-learn
-- **Tools & Platforms**: GitHub, Docker, VS Code
+- **Languages**: SQL, Python, R
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Excel, Power BI, Tableau
+- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB
+- **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, XGBoost, Statsmodels
+- **Statistical Analysis**: Hypothesis Testing, A/B Testing, Regression Analysis, Time Series Forecasting
+- **Data Cleaning & Manipulation:** Pandas, OpenRefine, Excel (Pivot Tables, VLOOKUP, Data Validation)
+- **Cloud & Big Data**: Google BigQuery, AWS (S3, SageMaker), Azure, Spark
+- **Deployment & MLOps**: Flask, Docker, Streamlit
+- **Tools & Platforms**: Jupyter Notebook, Git/GitHub, VS Code, Google Colab
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning & Deep Learning Algorithms 🤖
-- Backend Development with FastAPI 🚀
-- DevOps & Cloud Technologies ☁️
+- Advanced Machine Learning & Deep Learning Techniques using TensorFlow and Scikit-learn 🤖
+- Data Analytics & Visualization with Pandas, Power BI, and Matplotlib 📊
+- Statistical Analysis & Hypothesis Testing for Data-Driven Decisions 📈
+- Efficient Python Programming for Data Science & Automation 🐍
 
 ## 📫 Connect With Me
 - 🌐 **Portfolio**: [Coming Soon]
@@ -33,7 +40,8 @@ I'm a final-year Computer Science student at **Sahyadri College of Engineering**
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anush-bhandary&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anush-bhandary&theme=merko&hide_border=true)<br/>
